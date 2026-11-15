@@ -39,7 +39,7 @@ Project/Client: GE HealthCare
 -	Integrated OWASP ZAP into CICD Pipelines to facilitate DAST against staging environments, to find vulnerabilities, security misconfigurations with security validation gates. This prevented the critical issue to progress in Production Environment.
 -	Monitored production applications and infrastructure using Azure Monitor, Dynatrace, New Relic, Prometheus, and Grafana, using observability data to identify performance issues, service degradation, and potential reliability risks. 
 -	Applied Azure DevOps practices for effective incident management, on-call production support to improve system reliability and operational efficiency. 
--
+
 Key Achievements
 -	Reduced deployment time by 38% by implementing CI/CD pipeline segregation.
 -	Optimized Docker image sizes through layer reduction, lowering storage requirements.
