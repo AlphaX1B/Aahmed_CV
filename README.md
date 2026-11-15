@@ -19,21 +19,27 @@ Organisation: Tata Consultancy Services, India - Hyderabad
 Tenure: Feb 2023 – Aug 2026  
 Project/Client: GE HealthCare  
 - 
--	Managed 70+ production applications across multiple AKS clusters, supporting scalable cloud-native and Agentic AI workloads across development and production environments.
--	Deployed AI workloads to AKS and supported continuous build and deployment of Agentic AI application through Automation of CI/CD.
+-	Managed 70+ production applications across multiple AKS clusters and AWS EKS Clusters, supporting scalable cloud-native and Agentic AI workloads across development and production environments.
+-	Utilized GitOps fundamentals for repository separation strategy by maintaining application source code and Kubernetes deployment configurations in separate GitHub repositories.
+-	Created a Github Shared Libraries and Centralized Helm templates which were utilized across multiple applications, it minimized pipeline setup and easier deployment.
+-	Developed Python based CICD automation scripts and reusable helper functions which were used in collecting multiple configuration data for inventory and documentation.
+-	Created Jenkins CICS and ArgoCD GitOps Pipeline. Created multi branch Jenkins pipelines to streamline application builds, deployment and Kubernetes release.
+-	Designed and Implemented Infrastructure Provisioning using Terraform through automated Github Actions and maintained the remote state file to ensure consistent Infra tracking and Drift management.
+-	Deployed AI workloads to Azure Kubernetes, AWS EKS and supported continuous build and deployment of Agentic AI application through Automation of CI/CD.
 -	Designed and maintained Azure cloud infrastructure using services including AKS, Azure Virtual Machine, Azure Virtual Network, Microsoft Entra ID, Azure Application gateway, Azure Load balancer, Azure Blob Storage, Azure DNS, and Azure Monitor for supporting scalable application development, testing, and production deployments. 
 -	Built and maintained CI/CD pipelines using Jenkins and GitHub Actions, automating build, deployment, and release processes and contributing to a 38% reduction in deployment time through pipeline segregation and automation. 
 -	Collaborated with application development teams to troubleshoot build and deployment issues, streamline release processes, and improve the reliability and efficiency of software deployments across environments. 
 -	Supported Monitoring and troubleshooting of Azure Database for PostgreSQL, Azure SQL Database assisting with database connectivity, performance and application integration issues.
 -	Managed customer-facing production deployments and environment-specific releases, supporting application rollouts, troubleshooting deployment issues, and coordinating with cross-functional teams during critical releases. 
--	Implemented and managed containerized workloads using Docker and Kubernetes, with hands-on experience across AKS, Deployments, Services, Ingress, ConfigMaps, Secrets, HPA, and Kubernetes RBAC. 
--	Implemented Infrastructure as Code using Terraform and configuration automation using Ansible, enabling consistent and repeatable infrastructure provisioning and configuration across environments. 
--	Configured and supported Azure networking components, including VNet, subnets, Network security groups, Azure Load Balancer, Azure DNS and Kubernetes networking, with practical understanding of connectivity and traffic-flow troubleshooting. 
--	Implemented infrastructure and application security best practices using Microsoft Entra ID, Azure RBAC, security groups, Kubernetes Secrets, while collaborating with application and security stakeholders. 
+-	Implemented and managed containerized workloads using Docker and Kubernetes, with hands-on experience across AKS and EKS, Deployments, Services, Ingress, ConfigMaps, Secrets, HPA, and Kubernetes RBAC. 
+-	Configured networking components in AWS and Azure, including VNet, subnets, Network security groups, Azure Load Balancer, Azure DNS. AWS VPC, Subnets, Security Groups, Routing Tables, Route53, AWS WAF, Application, Network Load Balancers and Kubernetes networking, with practical understanding of connectivity and traffic-flow troubleshooting. 
+-	Implemented infrastructure and application security best practices using Microsoft Entra ID, AWS IAM, Azure RBAC, security groups, Kubernetes Secrets, IRSA while collaborating with application and security stakeholders. 
+-	Implemented SAST by integrating SonarQube into Jenkins CI/CD pipelines to perform automated static code analysis, identifying security vulnerabilities, bugs, code smells and code quality issues.
+-	Integrated Trivy for dependency and container vulnerability scans of Terraform files, Kubernetes Configuration, Docker Images and OS packages. Used Checkov for scanning unrestricted security groups, missing encryption, excessive IAM Permissions. 
+-	Integrated OWASP ZAP into CICD Pipelines to facilitate DAST against staging environments, to find vulnerabilities, security misconfigurations with security validation gates. This prevented the critical issue to progress in Production Environment.
 -	Monitored production applications and infrastructure using Azure Monitor, Dynatrace, New Relic, Prometheus, and Grafana, using observability data to identify performance issues, service degradation, and potential reliability risks. 
--	Developed automation and operational tooling using Python and Bash/Shell scripting to reduce manual operational tasks, support production troubleshooting, and improve deployment and infrastructure-management workflows. 
 -	Applied Azure DevOps practices for effective incident management, on-call production support to improve system reliability and operational efficiency. 
--	An Add on is that I am AWS Certified Solutions Architect – Associate (SAA-C03) with hands-on AWS cloud, Kubernetes, Terraform, CI/CD, and cloud-native experience, including Agentic AI workloads using AWS Lambda and Amazon Bedrock, while continuously developing expertise in modern DevOps and cloud technologies.
+-
 Key Achievements
 -	Reduced deployment time by 38% by implementing CI/CD pipeline segregation.
 -	Optimized Docker image sizes through layer reduction, lowering storage requirements.
