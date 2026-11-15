@@ -6,7 +6,10 @@ Availability : Immediate
 ____________________________________________________________________________________________________________________________________________________________  
 
 # Professional Summary
-Multi-Cloud DevOps Engineer with 9 years of IT experience specializing in cloud infrastructure, container orchestration, Infrastructure as Code, and CI/CD automation across AWS and Azure. Proven expertise in deploying agentic AI workloads, scaling AKS clusters, and streamlining release workflows. Skilled in Docker, Helm, Terraform, Jenkins, and GitHub Actions to deliver secure, high-availability production environments.
+Multi-Cloud DevOps Engineer with 9 years of IT experience specializing in cloud infrastructure, container orchestration, Infrastructure as Code, and CI/CD automation across AWS and Azure.
+Owned and Managed Dockerization Platform which involved Connecting with Stake holders, Development teams, Capacity planning, Infra Provisioning, Building Solutions, Deploying and Monitoring Production Applications.	
+Proven expertise in deploying agentic AI workloads, scaling AKS and EKS clusters, and streamlining release workflows. Skilled in Docker, Kubernetes, Helm, Terraform, Jenkins, GitHub Actions and Implementing SAST, DAST and Cloud Security practices to deliver secure, high-availability production environments.
+
 _____________________________________________________________________________________________________________________________________________________________  
 
 # Professional Experience
