@@ -14,19 +14,18 @@ ________________________________________________________________________________
 
 
 # Core Technical Skills
-Programming, Scripting & Configuration: Bash/Shell, Python, Groovy, YAML, JSON
-Operating Systems: Linux, Amazon Linux, Ubuntu, Suse.
-Multi Cloud Platform & CLI Tools: 
-Azure: Virtual machines, Entra ID, Vnet, Blob storage, ACS, AKS, Azure Monitor, Azure ML, Azure CLI.
-AWS: EC2, IAM, VPC, S3, ECR, EKS, Lambda, CloudWatch, SNS, RDS, Bedrock, AWS CLI.
-Networking & Security: AWS VPC, Application Load Balancing (ALB), Elastic Load Balancing (ELB), IAM, IRSA, Security Groups, Secrets Management, Network ACLs (NACLs), Routing, DNS
-Version Control & GitOps: Git, GitHub, Argo CD
-Containers, Orchestration & Automation: Docker, Kubernetes, OpenShift, Amazon EKS, Helm, AWS CloudFormation, Terraform, Jenkins, GitHub Actions.
-Monitoring & Observability: Dynatrace, New Relic, Amazon CloudWatch, Prometheus & Grafana (Familiar with)
-Incident Management: ServiceNow, Incident & Change Management, Root Cause Analysis (RCA), On-Call Production Support.
-Methodologies: Agile, Scrum
-
-__________________________________________________________________________________________________________________________________________________________________________
+- ## Programming, Scripting & Configuration: Bash/Shell, Python, Groovy, YAML, JSON
+- ## Operating Systems: Linux, Amazon Linux, Ubuntu, Suse.
+- ## Multi Cloud Platform & CLI Tools: 
+- ## Azure: Virtual machines, Entra ID, Vnet, Blob storage, ACS, AKS, Azure Monitor, Azure ML, Azure CLI.
+- ## AWS: EC2, IAM, VPC, S3, ECR, EKS, Lambda, CloudWatch, SNS, RDS, Bedrock, AWS CLI.
+- ## Networking & Security: AWS VPC, Application Load Balancing (ALB), Elastic Load Balancing (ELB), IAM, IRSA, Security Groups, Secrets Management, Network ACLs (NACLs), Routing, DNS
+- ## Version Control & GitOps: Git, GitHub, Argo CD
+- ## Containers, Orchestration & Automation: Docker, Kubernetes, OpenShift, Amazon EKS, Helm, AWS CloudFormation, Terraform, Jenkins, GitHub Actions.
+- ## Monitoring & Observability: Dynatrace, New Relic, Amazon CloudWatch, Prometheus & Grafana (Familiar with)
+- ## Incident Management: ServiceNow, Incident & Change Management, Root Cause Analysis (RCA), On-Call Production Support.
+- ## Methodologies: Agile, Scrum
+_____________________________________________________________________________________________________________________________________________________________________
 
 # Professional Experience
 
