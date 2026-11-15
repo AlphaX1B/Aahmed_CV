@@ -14,7 +14,7 @@ ________________________________________________________________________________
 
 
 # Core Technical Skills
-- ## Programming, Scripting & Configuration: Bash/Shell, Python, Groovy, YAML, JSON
+- ## Programming, Scripting & Configuration: **Bash/Shell, Python, Groovy, YAML, JSON**
 - ## Operating Systems: Linux, Amazon Linux, Ubuntu, Suse.
 - ## Multi Cloud Platform & CLI Tools: 
 - ## Azure: Virtual machines, Entra ID, Vnet, Blob storage, ACS, AKS, Azure Monitor, Azure ML, Azure CLI.
