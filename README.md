@@ -3,14 +3,30 @@ Dubai, United Arab Emirates
 Email: mohammadasiddiq@outlook.com  
 Mobile: +971 582119417  
 Availability : Immediate
-____________________________________________________________________________________________________________________________________________________________  
+__________________________________________________________________________________________________________________________________________________________________________ 
 
 # Professional Summary
 - Multi-Cloud DevOps Engineer with 9 years of IT experience specializing in cloud infrastructure, container orchestration, Infrastructure as Code, and CI/CD automation across AWS and Azure.
 - Owned and Managed Dockerization Platform which involved Connecting with Stake holders, Development teams, Capacity planning, Infra Provisioning, Building Solutions, Deploying and Monitoring Production Applications.	
 - Proven expertise in deploying agentic AI workloads, scaling AKS and EKS clusters, and streamlining release workflows. Skilled in Docker, Kubernetes, Helm, Terraform, Jenkins, GitHub Actions and Implementing SAST, DAST and Cloud Security practices to deliver secure, high-availability production environments.
 
-_____________________________________________________________________________________________________________________________________________________________  
+__________________________________________________________________________________________________________________________________________________________________________
+
+
+# Core Technical Skills
+Programming, Scripting & Configuration: Bash/Shell, Python, Groovy, YAML, JSON
+Operating Systems: Linux, Amazon Linux, Ubuntu, Suse.
+Multi Cloud Platform & CLI Tools: 
+Azure: Virtual machines, Entra ID, Vnet, Blob storage, ACS, AKS, Azure Monitor, Azure ML, Azure CLI.
+AWS: EC2, IAM, VPC, S3, ECR, EKS, Lambda, CloudWatch, SNS, RDS, Bedrock, AWS CLI.
+Networking & Security: AWS VPC, Application Load Balancing (ALB), Elastic Load Balancing (ELB), IAM, IRSA, Security Groups, Secrets Management, Network ACLs (NACLs), Routing, DNS
+Version Control & GitOps: Git, GitHub, Argo CD
+Containers, Orchestration & Automation: Docker, Kubernetes, OpenShift, Amazon EKS, Helm, AWS CloudFormation, Terraform, Jenkins, GitHub Actions.
+Monitoring & Observability: Dynatrace, New Relic, Amazon CloudWatch, Prometheus & Grafana (Familiar with)
+Incident Management: ServiceNow, Incident & Change Management, Root Cause Analysis (RCA), On-Call Production Support.
+Methodologies: Agile, Scrum
+
+__________________________________________________________________________________________________________________________________________________________________________
 
 # Professional Experience
 
@@ -45,7 +61,7 @@ Key Achievements
 -	Optimized Docker image sizes through layer reduction, lowering storage requirements.
 -	Diagnosed and resolved a high-memory-consumption issue in Java applications running on Amazon Linux 2023 through Unix-level performance analysis.
 
-_______________________________________________________________________________________________________________________________________________________________  
+______________________________________________________________________________________________________________________________________________________________________ 
 
 Role : DevOps Engineer
 Organisation: HSBC India - Hyderabad  
@@ -60,7 +76,7 @@ Project : International Payments Testing - HSBC.
 -	Implemented Infrastructure and application monitoring using New Relic and Azure Monitor for AKS workload service availability and incident investigation.
 -	Implemented Infrastructure provisioning using Terraform and ARM Templates. 
 -	Utilized Azure Key Vault, Azure Active Directory and Azure RBAC for secure credential management and controlled resource access.
-___________________________________________________________________________________________________________________________________________________________  
+_____________________________________________________________________________________________________________________________________________________________________ 
 
 Role: DevOps Engineer
 Organisation: Optum Global Solutions, Inida - Hyderabad  
@@ -76,94 +92,13 @@ Project: Optum Healthcare Provider Management.
 -	Implemented application monitoring, log analysis and troubleshooting using Splunk, Nagios and Grafana for supporting production availability and Incident resolution.
 -	Integrated code quality and security validation into CI CD workflows using SonarQube, Checkmarx and Nexus/Artifactory for software quality and artifact management.
 -	Followed Agile/Scrum methodologies for CICD, ITIL based change management and Incident Management. 
-_____________________________________________________________________________________________________________________________________________________________  
-# Core Technical Skills
-## DevOps & Architecture
-- Infrastructure as Code (IaC)
-- Microservices
-- CI/CD
-- Cloud Infrastructure
-- Containerized Applications
-
-## Programming, Scripting & Configuration 
-- Bash/Shell  
-- Python  
-- Groovy  
-- YAML
-- JSON
-
-## Operating Systems  
-- Linux
-- Amazon Linux
-- Ubuntu
-
-## Cloud & CLI Tools
-- AWS CLI
-- Kubectl CLI
-- AWS Cloud: EC2, IAM, VPC, S3, ECR, EKS, Lambda, CloudWatch, SNS, RDS, Bedrock.
-
-## Infrastructure as Code & Automation
-
-- Terraform
-- AWS CloudFormation
-
-## Networking & Security
-
-- VPC Networking
-- Application Load Balancer (ALB)
-- Elastic Load Balancing (ELB)
-- IAM Policies & Roles
-- IAM Roles for Service Accounts (IRSA)
-- Security Groups
-- Network ACLs (NACLs)
-- Routing
-- DNS
-- Secrets Management
-
-## Version Control & GitOps
-- Git
-- Github
-- Argo CD
-
-## Containers, Orchestration & Automation
-- Docker
-- Kubernetes
-- AWS Elastic Kubernetes Service
-- Kubernetes Deployments
-- Services
-- Ingress
-- ConfigMaps
-- Secrets
-- HPA
-- Helm
-- Jenkins
-- Github Actions
-
-## Monitoring & Observability
-- Dynatrace
-- New Relic
-- Cloudwatch
-- Promethus, Grafana - Working knowledge
-
-## DevOps Practices
-
-- Incident Management
-- Change Management
-- Root Cause Analysis (RCA)
-- On-Call Production Support
-- Post-Incident Reviews
-- ITIL
-
-## Methodologies
-- Agile
-- Scrum
-___________________________________________________________________________________________________________________________________________________________  
+_________________________________________________________________________________________________________________________________________________________________
 # Professional Certifications  
 - Certificate: AWS Certified Solutions Architect – Associate
 - Certificate Validity: June 2025 – June 2028
 - Issuing Authority: Amazon Web Services Training and Certification
 - Verify : https://www.credly.com/badges/1e08a56e-a586-49ba-9f69-76caee9736b0
-_____________________________________________________________________________________________________________________________________________________________  
+_________________________________________________________________________________________________________________________________________________________________ 
 
 
 # Educational Qualifications
@@ -171,21 +106,5 @@ ________________________________________________________________________________
 Degree: Bachelor of Commerce & Computer Applications  
 University: Osmania University - India, Hyderabad.  
 Year: 2013 - 2016  
--
-Higher Secondary / Intermediate: Mathematics, Physics & Chemistry  
-Board: Board of Intermediate Education - India, Hyderabad  
-Year : 2011 - 2013
 - 
-School : Vidya Niketan High School  
-Board: Board of Secondary Education - India, Hyderabad  
-Year: 2000 - 2011  
-- 
-_____________________________________________________________________________________________________________________________________________________________  
-
-# Languages
-English : Fluent  
-Hindi : Fluent  
-Urdu : Fluent  
-Telugu : Native  
--
-
+____________________________________________________________________________________________________________________________________________________________________
